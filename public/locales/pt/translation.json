@@ -1,0 +1,45 @@
+{
+    "login": {
+      "title": "Entre em sua conta",
+      "sub_title": "Olá, seja bem-vindo(a), utilize seus dados de acesso para continuar:",
+      "email_placeholder": "Digite seu e-mail",
+      "password_placeholder": "Digite sua senha",
+      "acess_button": "Acessar minha conta",
+      "commercial_text_header" : "Conheça o seu cliente de verdade",
+      "commercial_text_body" : "Consulte de forma simples e rápida em diferentes fontes de dados e garanta mais segurança para o seu negócio.",
+      "about" : "Este link abre? Tente...",
+      "error" : "Houve um erro ao tentar o login!"
+    },
+    "home": {
+      "plan": {
+        "title": "Plano atual: Combate à fraude",
+        "additional_consultations": "Consultas adicionais"
+      },
+      "report": {
+        "title": "Relatório de uso",
+        "distribution": "Distribuição do uso mensal"
+      }
+    },
+    "reports": {
+      "report_table": "Relatórios",
+      "executions": "Execuções",
+      "report_action": "Ver execuções",
+      "error" : "Houve um erro ao carregar os relatórios!"
+    },
+    "executions": {
+      "type": "Tipo",
+      "status": "Status",
+      "name": "Nome",
+      "error" : "Houve um erro ao carregar as execuções!",
+      "filter_action" : "Filtrar",
+      "filter" : "Filtros",
+      "filters" : {
+        "all": "Todos",
+        "approved": "Aprovado",
+        "disapproved": "Reprovado",
+        "pending" : "Pendente",
+        "ocr_pending" : "Pendente OCR",
+        "processing" : "Processando"
+      }
+    }
+}
